@@ -33,8 +33,6 @@ Sou estudante apaixonado por programação e algoritmos. Neste repositório, doc
 
 Primeiros passos com o **Little Man Computer (LMC)** - um simulador de CPU que nos ajuda a entender como processadores funcionam.
 
-[Ver documentação completa →](./semana02/README.md)
-
 ---
 
 ## 📁 Estrutura do Repositório
@@ -52,15 +50,5 @@ APC-2026-1/
 ├── projeto_final/
 │   ├── README.md
 │   └── proposta_pedagogica.md
-```
-
----
-
-## 🚀 Como Navegar
-
-- **[Semana 02](./semana02/)**: Simulador de CPU
-- **[Projeto Final](./projeto_final/)**: Integração de conceitos aprendidos
-
----
 
 **Última atualização**: 2026-04-01
