@@ -42,29 +42,4 @@ O LMC é um simulador educacional que representa uma CPU simplificada. É compos
 
 ### Little Man Computer
 
-![LMC CPU Simulator](https://raw.githubusercontent.com/sergi-blip/APC-2026-1/main/semana02/lmc_screenshot.png)
----
-
-## 💡 Aprendizados Principais
-
-1. ✅ Como instruções são armazenadas em memória
-2. ✅ O ciclo Fetch-Decode-Execute (FDE)
-3. ✅ Como dados fluem através de um processador
-4. ✅ Conceitos de registadores e memória
-5. ✅ Lógica de controle de fluxo (loops, branches)
-
----
-
-## 🔗 Recursos
-
-- **Simulador Online**: [101computing.net/LMC](https://www.101computing.net/LMC/)
-
----
-
-## 📝 Reflexões
-
-Este simulador foi essencial para solidificar meu entendimento sobre como processadores funcionam no nível mais fundamental. Ver o ciclo FDE em tempo real ajudou a desmistificar a "magia" por trás da execução de programas.
-
----
-
-**Semana completada**: ✅ 2026-04-01
+![Image](https://github.com/user-attachments/assets/da239db2-4833-4dfc-9320-d8ea306504ab)
