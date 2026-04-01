@@ -36,9 +36,13 @@ O LMC é um simulador educacional que representa uma CPU simplificada. É compos
 
 ## 🖼️ Arquivos da Semana
 
-- **[octostudio.txt](./octostudio.txt)** - Arquivo do OctoStudio
-- **[lmc_screenshot.png](./lmc_screenshot.png)** - Print da execução do simulador
+### OctoStudio
 
+![OctoStudio Screenshot](https://raw.githubusercontent.com/sergi-blip/APC-2026-1/main/semana02/octostudio_screenshot.png)
+
+### Little Man Computer
+
+![LMC CPU Simulator](https://raw.githubusercontent.com/sergi-blip/APC-2026-1/main/semana02/lmc_screenshot.png)
 ---
 
 ## 💡 Aprendizados Principais
